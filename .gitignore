@@ -1,0 +1,5 @@
+/*.iml
+/atlassian-ide-plugin.xml
+/.idea
+/vendor
+composer.lock

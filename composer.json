@@ -1,0 +1,14 @@
+{
+    "require-dev": {
+        "phpspec/phpspec": "~2.1@dev"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+		"psr-4": {
+			"Kontogrid\\Parser\\": "src/"
+		}
+	}
+}
+
