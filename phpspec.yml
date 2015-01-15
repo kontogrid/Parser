@@ -2,5 +2,7 @@ suites:
     kontogrid_suite:
         namespace: Kontogrid\Parser
         psr4_prefix: Kontogrid\Parser
+        src_path: src/
+        spec_prefix: spec\
 
 formatter.name: pretty
