@@ -2,4 +2,5 @@
 /atlassian-ide-plugin.xml
 /.idea
 /vendor
+/bin
 composer.lock
